@@ -10,8 +10,8 @@ from referee.consts import (
     LabelIDs,
     MAX_EVENT_MESSAGES_IN_QUEUE,
     ROBOT_INITIAL_ROTATION,
-    ROBOT_INITIAL_TRANSLATION,
     ROBOT_NAMES,
+    ROBOT_INITIAL_TRANSLATION,
 )
 from referee.event_handlers import EventHandler
 from referee.eventer import Eventer
